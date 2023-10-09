@@ -1,0 +1,7 @@
+publish
+*.rar
+*.zip
+bin
+obj
+Migrations
+public
